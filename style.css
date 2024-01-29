@@ -19,3 +19,11 @@ body{
 a{
     color: var(--color-blue);
 }
+
+.hero{
+
+}
+
+.hero__background{
+    width: 100%;
+}
